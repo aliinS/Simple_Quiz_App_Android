@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backg"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".SecondActivity"
+    tools:ignore="UsingOnClickInXml"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/countLabel"
+        android:text="@string/count_label"
+        android:textSize="22sp"
+        android:textColor="#72B2E7"
+        android:background="@drawable/rounded_corner_view"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/question"
+        android:text="@string/question_label"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/rounded_corner_view"
+        android:textColor="#72B2E7"
+        android:textSize="30sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"
+
+
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#72B2E7"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:text="@string/btn_answer"
+        android:textColor="@color/black"
+        android:id="@+id/answerBtn1"
+        android:onClick="checkAnswer"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#72B2E7"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:text="@string/btn_answer"
+        android:textColor="@color/black"
+        android:id="@+id/answerBtn2"
+        android:onClick="checkAnswer"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#72B2E7"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:text="@string/btn_answer"
+        android:textColor="@color/black"
+        android:id="@+id/answerBtn3"
+        android:onClick="checkAnswer"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#72B2E7"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:text="@string/btn_answer"
+        android:textColor="@color/black"
+        android:id="@+id/answerBtn4"
+        android:onClick="checkAnswer"
+        />
+
+
+
+
+
+</LinearLayout>

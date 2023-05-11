@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Quiz App</string>
+    <string name="welcome">Welcome to Simple Quiz App</string>
+    <string name="have_fun">Let\'s have a little fun by being quizzed on abbreviations.</string>
+    <string name="enter_name">To start, please type in your name:</string>
+    <string name="name_hint">Type name here</string>
+    <string name="go_button">Let\'s go!</string>
+
+    <string name="count_label">Q%d</string>
+    <string name="question_label">Question about something?</string>
+    <string name="btn_answer">Answer</string>
+
+    <string name="result_title">Result</string>
+    <string name="result_score">%d / 5</string>
+    <string name="btn_try_again">Try again!</string>
+</resources>
