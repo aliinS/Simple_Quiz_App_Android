@@ -5,13 +5,17 @@
     android:layout_height="match_parent"
     tools:context=".ResultActivity"
     android:orientation="vertical"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@drawable/backg">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/result_title"
-        android:textSize="22sp"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="#72B2E7"
+        android:background="@drawable/rounded_corner_view"
         />
 
     <TextView
@@ -19,7 +23,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/result_score"
-        android:textSize="30sp"
+        android:textSize="45sp"
+        android:textColor="#72B2E7"
+        android:textStyle="bold"
+        android:background="@drawable/rounded_corner_view"
         android:layout_marginTop="60dp"
         />
 
@@ -28,6 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_try_again"
+        android:backgroundTint="#72B2E7"
         android:layout_marginTop="80dp"
         />
 
