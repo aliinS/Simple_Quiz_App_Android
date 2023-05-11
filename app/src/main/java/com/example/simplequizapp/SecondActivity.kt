@@ -22,21 +22,21 @@ class SecondActivity : AppCompatActivity() {
 
     private val quizData = mutableListOf(
         //abbreviation, answer, choice1, choice2, choice3
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("HTML", "HyperText Markup Language", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("HTTPS", "Hypertext Transfer Protocol Secure", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CAD", "Computer Aided Design", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("RAM", "Random Access Memory", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("WWW", "World Wide Web", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service"),
-        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Sex Service")
+        mutableListOf("CSS", "Cascading Style Sheet", "Cultural Shit Sheet", "Computer Style Sorter", "Casual Style System"),
+        mutableListOf("HTML", "HyperText Markup Language", "Hi To My Learners", "Hello Text Message Lineup", "High Text Making Language"),
+        mutableListOf("HTTPS", "Hypertext Transfer Protocol Secure", "something", "something", "something"),
+        mutableListOf("CAD", "Computer Aided Design", "Computer Activated Device", "Canadian Autocomplete Directory", "Casual Activation of Data"),
+        mutableListOf("RAM", "Random Access Memory", "Rational Activity Murial", "Rural African Mandarin", "Random Activity Memory"),
+        mutableListOf("WWW", "World Wide Web", "What Would (Jesus) Walk on?", "Weird World Web", "Why Where When"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
+        mutableListOf("CSS", "Cascading Style Sheet", "something", "something", "something"),
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
