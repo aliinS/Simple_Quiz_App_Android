@@ -17,7 +17,7 @@ First page:
 
 Question page (SecondActivity):
 
-<img src="[http://url/image.png](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/0eb72cf0-9e7b-477d-8ead-2fc6c45075ea)" height="60" width="60" >
+<img src="[[http://url/image.png](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/0eb72cf0-9e7b-477d-8ead-2fc6c45075ea](https://scontent-hel3-1.xx.fbcdn.net/v/t1.15752-9/345595963_193294820302833_3131323715205661658_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8Ex2HqiCHEkAX_a7K6m&_nc_ht=scontent-hel3-1.xx&oh=03_AdQzSfHIy343VxJuIIU1SCRW7y9zBPhwx0tDhKGmWZAWnw&oe=64854D2B))" height="60" width="60" >
 
 
 Right answer: 
