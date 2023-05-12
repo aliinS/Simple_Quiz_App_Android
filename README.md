@@ -12,11 +12,12 @@ My first little project for android and in Kotlin. For practice purposes ofc.
 First page:
 
 ![MainPage](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/eebbd93c-88a9-49bb-9253-f8ada3289d61)
+![image](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/0eb72cf0-9e7b-477d-8ead-2fc6c45075ea)
 
 
 Question page (SecondActivity):
 
-![QP](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/0f2d8db6-892c-410b-a007-67a8650f7dab](https://scontent-hel3-1.xx.fbcdn.net/v/t1.15752-9/345595963_193294820302833_3131323715205661658_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8Ex2HqiCHEkAX_a7K6m&_nc_ht=scontent-hel3-1.xx&oh=03_AdQzSfHIy343VxJuIIU1SCRW7y9zBPhwx0tDhKGmWZAWnw&oe=64854D2B){:height="100px" width="100px"}
+<img src="[http://url/image.png](https://github.com/aliinS/Simple_Quiz_App_Android/assets/113007378/0eb72cf0-9e7b-477d-8ead-2fc6c45075ea)" height="60" width="60" >
 
 
 Right answer: 
