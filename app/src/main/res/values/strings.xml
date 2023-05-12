@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Quiz App</string>
     <string name="welcome">Welcome to Simple Quiz App</string>
-    <string name="have_fun">Let\'s have a little fun by being quizzed on abbreviations.</string>
+    <string name="have_fun">Let\'s have a little fun by being quizzed on abbreviations commonly used in Computer Science.</string>
     <string name="enter_name">To start, please type in your name:</string>
     <string name="name_hint">Type name here</string>
     <string name="go_button">Let\'s go!</string>

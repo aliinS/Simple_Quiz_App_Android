@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val navBtn = findViewById<Button>(R.id.startButton)
 
         navBtn.setOnClickListener {
-            val userNameInput = editTextName.text
+            val userNameInput = editTextName.text.toString()
             // makes a toast = context + welcome + text and user input + duration
             Toast.makeText(this, "Welcome, $userNameInput!", Toast.LENGTH_SHORT).show()
 
